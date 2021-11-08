@@ -65,7 +65,7 @@
 	$kIndexFileSeparator = "|+" ;		# Index file separator constant
 
 	# Initialize required parameters
-	$E_version = 44 ;						# Script version
+	$E_version = 4 ;						# Script version
 
 	# File locking parameters
 	$E_flockFileExt = '\'.lck\'' ;	# Flock locking filename extension
